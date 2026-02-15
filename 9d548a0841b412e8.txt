@@ -1,0 +1,76 @@
+#profile-title: MARUSYA VPN
+#profile-update-interval: 6
+#announce: MARUSYA VPN Распространение 3-им лицам карается блокировкой!
+# user_id: 6548897089
+# access_key: 7696cae282bafc6e8ff70e9f
+# expires: 2028-02-05T10:16:46.015806+00:00
+
+#profile-title: MARUSYA VPN
+#profile-update-interval: 1
+#announce: MARUSYA VPN Распространение 3-им лицам карается блокировкой! Передавайте своим близким, Telegram и Whatsapp уже замедлили
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@84.201.20.217:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.indevs.in#WL%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20MARUSYA
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@84.201.20.217:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.indevs.in&fp=chrome#WL%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20MARUSYA
+
+vless://b766e2e5-5327-4b3a-a670-38ecf2662f99@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=47e4c3980f872e68#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://562eb7c0-f526-4572-b10d-3d083efcd791@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=google.com&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=1283729a0a9c1f#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://4c0374b7-9414-4d0f-a4f1-b837061a1693@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=1283729a0a9c1f#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://92a532c6-543f-4b82-9c5c-90f1f9f6aa1d@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=1283729a0a9c1f#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://229eaa9f-ac95-46bc-9426-361b698e1b28@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=54c71eb172a3#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://1f030b12-a40d-4a9a-ba88-d20f7a2686fe@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=768c60#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://3cac1d60-8ddb-4ea8-9344-88344d500741@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=9de7#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://a49e4ab5-2d44-417f-be6a-5757efa892b7@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=352e3a94#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://d9e9cf27-dea6-4f57-94e9-c8182f7259e9@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=1283729a0a9c1f#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://29eb05af-f89d-4563-a8c5-44f0c5733860@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=352e3a94#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://d666d581-b288-4a8e-b283-12c4b818873f@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=9de7#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://456bd17d-9407-4b88-959f-aa320b0a572e@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=google.com&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=47e4c3980f872e68#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://7812bc6b-959b-4e65-9093-5c1a318ee4bf@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=google.com&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=47e4c3980f872e68#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://937b3af1-a2ca-49cd-843e-d5d77bc83a8b@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=47e4c3980f872e68#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://4393f658-e04e-4e66-aa9d-df79bcc120cb@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=google.com&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=54c71eb172a3#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://9cd1b59f-24e9-44a5-8ec3-f403ea961019@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=352e3a94#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://456bd17d-9407-4b88-959f-aa320b0a572e@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=47e4c3980f872e68#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://30635146-8830-4183-8f59-88b091c12a9b@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=768c60#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://6024f212-df57-4f88-b2ad-4f7256333fe7@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=352e3a94#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://62fc9491-524b-4680-b007-0da28635ed69@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXUhABwZGCCB62DUsVBFn_qVd3g&sid=54c71eb172a3#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://c4f7484d-0e36-4eae-a125-0699e0562b65@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=qq&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=47e4c3980f872e68#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://1f030b12-a40d-4a9a-ba88-d20f7a2686fe@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=768c60#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://c7db6499-1935-4105-9922-071a5d9fbffb@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=352e3a94#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://b7a5780f-3f7c-4f58-b9b2-32ba7d6fc7b2@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=54c71eb172a3#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
+
+vless://c0c42ba7-0b41-46db-8988-d3d7b53eebcd@141.98.189.90:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=content.strelkavpn.com&pbk=oVH-PJ9YlO_QfwDiAkCFeg5LGQXBhOzWuNSXO7BxTVA&sid=cfd8&type=tcp#VPN%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20MARUSYA
+
+vless://e85967d8-c879-42a1-870b-30555bdf7fcf@94.131.113.228:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fast.strelkavpn.ru&pbk=gUDEXo3UPF5WlJdIvpKMZbcLfKxMkiDyWgXjleD0aA4&sid=52ff1eca74d6b2&type=tcp#VPN%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20MARUSYA
+
+vless://5b74ca38-f45d-4931-bd10-0c6e2dfcd9a3@103.113.68.85:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=content.fasssst.ru&pbk=QvjP74yYU3MSjcPB4sdxU1FC1Qtqaq6k7WoiEpx3FRM&sid=0ef194cc&type=tcp#VPN%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20MARUSYA
+
+vless://afc3439e-d3e7-473d-9f49-7ecb54054f28@89.221.203.156:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lu20.strelkavpn.com&pbk=XFrZyCGNcvagmPNvZv-5ILdStbMDJT7TVQ1kUNpmGkY&sid=21659e3d9399&type=tcp#VPN%20%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%20%7C%20MARUSYA
+
+vless://917ac1b9-c517-409e-b0ea-f7a0533d4419@141.98.190.76:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr30.strelkavpn.com&pbk=c0M0KssATBBCGw_Ae1-lOovZhNAXNfJtqPAk-cdTPjE&sid=c5e858a31c87&type=tcp#VPN%20%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20MARUSYA
