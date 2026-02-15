@@ -4,7 +4,7 @@
 # user_id: 6548897089
 # access_key: d6c6647d9a25d74dc5d7fbe3
 # expires: 2028-02-05T10:16:46.015806+00:00
-# updated: 2026-02-15T11:03:10.512532+00:00
+# updated: 2026-02-15T11:49:17.310204+00:00
 
 #profile-title: MARUSYA VPN
 #profile-update-interval: 1
