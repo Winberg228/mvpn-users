@@ -3,44 +3,16 @@
 #announce: MARUSYA VPN Распространение 3-им лицам карается блокировкой!
 # user_id: 1815991896
 # access_key: b8d9c56f30653b06e980c9be
-# expires: 2026-04-15T09:31:08.741597+00:00
-# updated: 2026-02-15T11:03:08.935886+00:00
+# expires: 2026-05-15T09:31:08.741597+00:00
+# updated: 2026-02-15T15:39:55.816337+00:00
 
 #profile-title: MARUSYA VPN
 #profile-update-interval: 1
-#announce: MARUSYA VPN Распространение 3-им лицам карается блокировкой!
-
-vless://bbc5126c-0f1c-4301-b2f4-1e9d0780d0c4@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=9de7#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
-
-vless://456bd17d-9407-4b88-959f-aa320b0a572e@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=9de7#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
-
-vless://9a9653b4-b5b8-4ad2-9fb9-e0e30fbbba77@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=9de7#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
-
-vless://58d36dc5-b143-4a59-995a-dc059bab4592@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=54c71eb172a3#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
-
-vless://5e8a0118-8aad-4be4-b83e-4f5220ff6d8b@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=9de7#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
-
-vless://7d39f585-6b61-4d7e-9c66-5ecf628052b9@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=9de7#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
-
-vless://262df1e7-2724-4a6f-8582-8902be0d5088@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=97#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
-
-vless://d7c7fe0d-e532-44bd-a051-78f1194ed080@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=54c71eb172a3#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
-
-vless://12319401-960e-4a2c-881b-917cf0af6c83@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=54c71eb172a3#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
-
-vless://f4ff2768-ba1f-4a00-8a13-6d114754bd17@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=9de7#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
-
-vless://b7a5780f-3f7c-4f58-b9b2-32ba7d6fc7b2@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=97#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
-
-vless://9e0fe137-0da7-45b0-9a6d-a767f109d666@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=54c71eb172a3#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.17.9:8443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in#WL%20%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20MARUSYA
+#announce: MARUSYA VPN Распространение 3-им лицам карается блокировкой! Передавайте своим близким, Telegram и Whatsapp уже замедлили
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphd1lEU2ozS3JJS0VRM1JycFJDS0RxVk1Y@basic-ru-0.undef.network:41056#WL%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20MARUSYA
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@84.201.20.217:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.indevs.in#WL%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20MARUSYA
 
@@ -93,68 +65,6 @@ vless://1f030b12-a40d-4a9a-ba88-d20f7a2686fe@osn.takovpn.ru:443/?type=tcp&encryp
 vless://c7db6499-1935-4105-9922-071a5d9fbffb@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=352e3a94#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
 
 vless://b7a5780f-3f7c-4f58-b9b2-32ba7d6fc7b2@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=54c71eb172a3#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
-
-vless://8d25e0fa-2046-4365-8c2d-8edd60d6d5b4@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=3d3c3fc7e9#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
-
-vless://267101b8-9742-4f2a-9899-c6702b3412f5@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=54c71eb172a3#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
-
-vless://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443/?type=tcp&encryption=none&flow=&sni=yandex.ru&fp=chrome&security=reality&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&sid=5f22#WL%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20MARUSYA
-
-vless://cede58e4-091f-4eb7-b9d5-9b892e85b291@146.185.208.206:8443/?type=tcp&encryption=none&flow=&sni=max.ru&fp=chrome&security=reality&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&sid=5f22#WL%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20MARUSYA
-
-vless://e8accc46-c511-42fb-919b-9283799a88a1@79.137.175.56:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934#VPN%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20MARUSYA
-
-vless://e8accc46-c511-42fb-919b-9283799a88a1@79.137.175.56:51102/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=1929ef620e9b34f5#VPN%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20MARUSYA
-
-vless://e8accc46-c511-42fb-919b-9283799a88a1@79.137.175.56:51102/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=8f222b3475800821#VPN%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20MARUSYA
-
-vless://e8accc46-c511-42fb-919b-9283799a88a1@79.137.175.56:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=8f222b3475800821#VPN%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20MARUSYA
-
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@158.160.223.36:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#VPN%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@158.160.223.36:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#VPN%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@84.252.143.25:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#VPN%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@158.160.223.36:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#VPN%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://eb4234b2-8083-4038-af1d-ae752b4ad6d4@37.139.33.57:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff#VPN%20%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20MARUSYA
-
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@84.252.143.25:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#VPN%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://e8accc46-c511-42fb-919b-9283799a88a1@158.160.105.121:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=8f222b3475800821#VPN%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20MARUSYA
-
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@87.239.106.153:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#VPN%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@79.137.175.44:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#VPN%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@79.137.175.44:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#VPN%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@84.252.143.25:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#VPN%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@79.137.175.59:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=205748bc0f24a747#VPN%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
-
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@84.252.143.25:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#VPN%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@79.137.175.59:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=e57932a42872a362#VPN%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
-
-vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@79.137.175.59:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#VPN%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
-
-vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@89.169.162.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#VPN%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
-
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@87.239.106.153:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#VPN%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@87.239.106.153:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#VPN%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@84.252.136.245:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#VPN%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
-
-vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@84.252.136.245:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#VPN%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
-
-vless://e8accc46-c511-42fb-919b-9283799a88a1@158.160.105.121:51102/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=8f222b3475800821#VPN%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20MARUSYA
-
-vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@89.169.162.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=e57932a42872a362#VPN%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
-
-vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@89.169.162.214:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=205748bc0f24a747#VPN%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
 
 vless://c0c42ba7-0b41-46db-8988-d3d7b53eebcd@141.98.189.90:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=content.strelkavpn.com&pbk=oVH-PJ9YlO_QfwDiAkCFeg5LGQXBhOzWuNSXO7BxTVA&sid=cfd8&type=tcp#VPN%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20MARUSYA
 
