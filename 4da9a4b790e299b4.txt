@@ -1,14 +1,10 @@
 #profile-title: MARUSYA VPN
-#profile-update-interval: 6
+#profile-update-interval: 1
 #announce: MARUSYA VPN Распространение 3-им лицам карается блокировкой!
 # user_id: 6548897089
 # access_key: d6c6647d9a25d74dc5d7fbe3
-# expires: 2029-01-30T10:16:46.015806+00:00
-# updated: 2026-02-17T16:06:39.333307+00:00
-
-#profile-title: MARUSYA VPN
-#profile-update-interval: 1
-#announce: MARUSYA VPN Распространение 3-им лицам карается блокировкой! Передавайте своим близким, Telegram и Whatsapp уже замедлили!
+# expires: 2028-02-05T10:16:46.015806+00:00
+# updated: 2026-02-18T13:55:57.917404+00:00
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
 
