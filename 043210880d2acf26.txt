@@ -1,14 +1,10 @@
 #profile-title: MARUSYA VPN
-#profile-update-interval: 6
+#profile-update-interval: 1
 #announce: MARUSYA VPN Распространение 3-им лицам карается блокировкой!
 # user_id: 8291589507
 # access_key: ba9f7a95f0381fba571e53e4
-# expires: 2027-02-10T12:35:40.730280+00:00
-# updated: 2026-02-15T12:35:41.032473+00:00
-
-#profile-title: MARUSYA VPN
-#profile-update-interval: 1
-#announce: MARUSYA VPN Распространение 3-им лицам карается блокировкой! Передавайте своим близким, Telegram и Whatsapp уже замедлили
+# expires: 2027-02-14T09:18:46.012886+00:00
+# updated: 2026-02-19T09:19:03.408453+00:00
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
 
@@ -66,12 +62,8 @@ vless://c7db6499-1935-4105-9922-071a5d9fbffb@osn.takovpn.ru:443/?type=tcp&encryp
 
 vless://b7a5780f-3f7c-4f58-b9b2-32ba7d6fc7b2@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=54c71eb172a3#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
 
-vless://c0c42ba7-0b41-46db-8988-d3d7b53eebcd@141.98.189.90:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=content.strelkavpn.com&pbk=oVH-PJ9YlO_QfwDiAkCFeg5LGQXBhOzWuNSXO7BxTVA&sid=cfd8&type=tcp#VPN%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20MARUSYA
+vless://72239cbc-5a25-411c-b4f5-b9167a10f5e1@77.110.127.105:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&pbk=-Bdu8i-HU28Xmx87RMou5okYo8TqfbyZ8Ufs9RodUGE&sid=097de35e52ec5256&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20VPN%20USA%20%7C%20MARUSYA
 
-vless://e85967d8-c879-42a1-870b-30555bdf7fcf@94.131.113.228:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fast.strelkavpn.ru&pbk=gUDEXo3UPF5WlJdIvpKMZbcLfKxMkiDyWgXjleD0aA4&sid=52ff1eca74d6b2&type=tcp#VPN%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20MARUSYA
+vless://72239cbc-5a25-411c-b4f5-b9167a10f5e1@77.110.127.105:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&pbk=-Bdu8i-HU28Xmx87RMou5okYo8TqfbyZ8Ufs9RodUGE&sid=097de35e52ec5256&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20VPN%20USA%20%7C%20MARUSYA%20
 
-vless://5b74ca38-f45d-4931-bd10-0c6e2dfcd9a3@103.113.68.85:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=content.fasssst.ru&pbk=QvjP74yYU3MSjcPB4sdxU1FC1Qtqaq6k7WoiEpx3FRM&sid=0ef194cc&type=tcp#VPN%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20MARUSYA
-
-vless://afc3439e-d3e7-473d-9f49-7ecb54054f28@89.221.203.156:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lu20.strelkavpn.com&pbk=XFrZyCGNcvagmPNvZv-5ILdStbMDJT7TVQ1kUNpmGkY&sid=21659e3d9399&type=tcp#VPN%20%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%20%7C%20MARUSYA
-
-vless://917ac1b9-c517-409e-b0ea-f7a0533d4419@141.98.190.76:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr30.strelkavpn.com&pbk=c0M0KssATBBCGw_Ae1-lOovZhNAXNfJtqPAk-cdTPjE&sid=c5e858a31c87&type=tcp#VPN%20%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20MARUSYA
+vless://72239cbc-5a25-411c-b4f5-b9167a10f5e1@77.110.127.105:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&pbk=-Bdu8i-HU28Xmx87RMou5okYo8TqfbyZ8Ufs9RodUGE&sid=097de35e52ec5256&type=tcp#%F0%9F%87%BA%F0%9F%87%B8VPN%20USA%20%7C%20MARUSYA
