@@ -3,8 +3,8 @@
 #announce: MARUSYA VPN Распространение 3-им лицам карается блокировкой!
 # user_id: 6548897089
 # access_key: d6c6647d9a25d74dc5d7fbe3
-# expires: 2028-03-06T10:16:46.015806+00:00
-# updated: 2026-02-19T17:55:29.175447+00:00
+# expires: 2029-03-01T10:16:46.015806+00:00
+# updated: 2026-02-24T19:05:16.759167+00:00
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#WL%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20MARUSYA
 
@@ -35,3 +35,9 @@ vless://bbafc769-441b-4f06-9aae-9cc04ede1980@afrcloud22.mmv.kr:443?path=%2F198.9
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.193.91:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#🇺🇸 VPN USA | MARUSYA
 
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?encryption=none&security=none&type=ws&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&path=/?ed#🇬🇧 VPN United Kingdom | MARUSYA
+
+vless://f1449968-0329-468b-b56b-1c573ac2a767@51.250.107.80:8081?encryption=none&security=reality&sni=eh.vk.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20WL%20Russia%20%7C%20MARUSYA
+
+vless://7e7f7674-51a7-4cd6-813d-f025116e4b93@95.163.251.110:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn1.ozone.ru&pbk=jyfiBUYiL1e88ru9_K3hrieKZVwiI6CkU5mhnH36qm8&sid=afee1a48fd42a87b&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20WL%20Austria%20%7C%20MARUSYA
+
+vless://e24fcc0e-b819-4df0-bb64-b997660e208f@37.139.33.50:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=jyfiBUYiL1e88ru9_K3hrieKZVwiI6CkU5mhnH36qm8&sid=afee1a48fd42a87b&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20WL%20Austria%20%7C%20MARUSYA
